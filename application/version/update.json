@@ -2,9 +2,9 @@
   "Visibility": "VISIBLE",
   "Title": "Test",
   "Description": "Test Message",
-  "MainTextButton": "Update",
+  "MainTextButton": "Жаңарту",
   "Cancelable": "true",
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
+  "CancelButtonText": "Кейінірек жаңарту",
+  "DownloadLink": "https://t.me/dopamine_voice",
   "Version": "1.1"
 }
