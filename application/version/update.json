@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Қыстық жаңарту🎄",
-  "Description": "",
-  "MainTextButton": "Жаңарту",
-  "Cancelable": "true",
-  "CancelButtonText": "Кейінірек жаңарту",
-  "DownloadLink": "https://t.me/seele_off",
-  "Version": "1.2"
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://google.com",
+  "Version": "1.1"
 }
