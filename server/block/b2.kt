@@ -3,5 +3,6 @@
 "episode":"1/1"
 },
 {"poster":"https://dopaminevoice.kz/img/kimi_poster.png",
-"episode":"1/1"
+"episode":"1/1",
+"id":"kimi-no-na-wa"
 } ]
