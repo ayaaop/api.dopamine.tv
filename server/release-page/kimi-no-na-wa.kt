@@ -2,6 +2,7 @@
 "poster":"https://dopaminevoice.kz/img/kimi_poster.png",
 "title":"Сенің есімің",
 "title_orignal":"Kimi no na wa",
+"age":"16+",
 "country":"Япония, 2016 жыл",
 "i_video":"1 бөлім. ~116 минут",
 "status":"Толықметражды, шықты",
