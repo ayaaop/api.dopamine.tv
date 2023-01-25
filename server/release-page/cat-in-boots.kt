@@ -12,7 +12,7 @@
 "player":"null",
 "comments":"null",
 "height":"null",
-"uncom":"null",
+"com":"null",
 "id":"cat-in-boots",
 "description":"мультфильм, комедия, приключения"
 } ]
