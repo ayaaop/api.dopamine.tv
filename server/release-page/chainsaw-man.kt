@@ -2,6 +2,7 @@
 "poster":"https://dopaminevoice.kz/img/chainsaw_poster.png",
 "title":"Шынжырлы Ара Адам",
 "title_orignal":"Chensō Man",
+"age":"18+",
 "country":"Япония, 2022 жыл",
 "i_video":"12 бөлім. ~25 минут",
 "status":"Көп бөлімді, шықты",
