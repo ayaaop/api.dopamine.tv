@@ -16,5 +16,7 @@
 "id":"kimi-no-na-wa",
 "description":"фэнтези, драма",
 "uncom":"null",
+"announcement":"null",
+"data":"null",
 "statistics":"kimi-no-na-wa-s"
 } ]
