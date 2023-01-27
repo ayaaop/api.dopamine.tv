@@ -15,5 +15,7 @@
 "height":"5000",
 "description":"экшен, тылсым күштер",
 "com":"null",
+"player":"null",
+"data":"Жақында",
 "id":"gekijouban-jujutsu-kaisen-0"
 } ]
