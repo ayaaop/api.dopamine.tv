@@ -3,7 +3,7 @@
 "title":"Хаулдың Жаяу Қамалы",
 "title_orignal":"Hauru no ugoku shiro",
 "age":"0+",
-"country":"Япония, 2004 жыл",
+"country":"Жапония, 2004 жыл",
 "i_video":"1 бөлім. ~116 минут",
 "status":"Толықметражды, шықты",
 "studio":"Студия Ghibli",
