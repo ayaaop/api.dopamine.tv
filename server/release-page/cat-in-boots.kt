@@ -3,7 +3,7 @@
 "title":"Етік киген мысық: Соңғы тілек",
 "title_orignal":"Puss in Boots: The Last Wish",
 "age":"16+",
-"country":"США, 2022 жыл",
+"country":"АҚШ, 2022 жыл",
 "i_video":"1 бөлім. ~1 сағат 42 минут",
 "status":"Толықметражды, жақында",
 "studio":"Студия ",
