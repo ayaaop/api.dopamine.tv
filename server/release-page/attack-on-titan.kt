@@ -14,6 +14,8 @@
 "height":"1500",
 "description":"фэнтези, драма, хоррор",
 "uncom":"null",
+"announcement":"null",
+"data":"null",
 "id":"attack-on-titan"
 } ]
 
