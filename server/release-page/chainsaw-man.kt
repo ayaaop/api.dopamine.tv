@@ -15,5 +15,7 @@
 "height":"5000",
 "description":"фэнтези, экшн, хоррор",
 "uncom":"null",
+"announcement":"null",
+"data":"null",
 "id":"chainsaw-man"
 } ]
