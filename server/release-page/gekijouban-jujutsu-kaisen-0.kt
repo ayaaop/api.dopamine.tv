@@ -16,6 +16,6 @@
 "description":"экшен, тылсым күштер",
 "com":"null",
 "unavailable":"null",
-"data":"Жақында",
+"data":"Жуырда",
 "id":"gekijouban-jujutsu-kaisen-0"
 } ]
