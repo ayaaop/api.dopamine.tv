@@ -16,6 +16,6 @@
 "height":"null",
 "com":"null",
 "id":"cat-in-boots",
-"data":"Жақында",
+"data":"Жуырда",
 "description":"мультфильм, комедия, приключения"
 } ]
