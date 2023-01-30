@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "Өзгерістер тізімі:",
+  "Description": "— «Әлемдік чат» енді сіз өз пікіріңізбен барлық Дофамин қосымшасының пайдаланушыларымен бөлісе аласыз\n— Бөлімдердің серверге қосылуы жайлы шағым статистика қосылды\n— Басты бетте аздап дизайн өзгертілді\n— Шығарылымдардың біткен немесе бітпегені тұралы ақпарат беретін шағым ақпараттық жүйе қосылды\n— Анонстар бөлімінің дизайны өзгертілді\n— Іздеу бөліміне кірген кезде шығарып жіберу қателігі түзетілді",
   "MainTextButton": "Жаңарту",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Кейінірек жаңарту",
-  "DownloadLink": "https://t.me/dopamine_voice",
-  "Version": "1.0"
+  "DownloadLink": "https://github.com/dopamine-app/download/releases/download/untagged-a6ca4ac89e5e08361963/Dopamine.Apps.1.1.Beta.Test.apk",
+  "Version": "1.1"
 }
