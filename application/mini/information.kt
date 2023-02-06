@@ -1,4 +1,4 @@
 [ {
-"information":"false",
+"information":"true",
 "info":"Test"
 } ]
