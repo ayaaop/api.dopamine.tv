@@ -5,7 +5,7 @@
 "age":"18+",
 "country":"Жапония, 2021 жыл",
 "i_video":"1 бөлім. ~97 минут",
-"status":"Толықметражды, шықты",
+"status":"Толықметражды, жуырда",
 "studio":"Студия MAPPA, автор Гэгэ Акутами",
 "note":"null",
 "note_li":"null",
@@ -16,6 +16,6 @@
 "description":"экшен, тылсым күштер",
 "com":"null",
 "unavailable":"null",
-"data":"Жуырда",
+"data":"15-ақпан",
 "id":"gekijouban-jujutsu-kaisen-0"
 } ]
