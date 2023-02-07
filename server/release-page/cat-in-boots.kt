@@ -16,6 +16,6 @@
 "height":"null",
 "com":"null",
 "id":"cat-in-boots",
-"data":"1 наурыз",
+"data":"1-ші наурызда",
 "description":"мультфильм, комедия, приключения"
 } ]
