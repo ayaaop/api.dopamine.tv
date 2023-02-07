@@ -16,6 +16,10 @@
 "announcement":"null",
 "data":"null",
 "id":"attack-on-titan",
-"description": ["фэнтези", "драма", "хоррор"]
+"description": [
+    "Фэнтези",
+    "драма",
+    "хоррор"
+  ]
 } ]
 
