@@ -16,6 +16,6 @@
 "description":"экшен, тылсым күштер",
 "com":"null",
 "unavailable":"null",
-"data":"15-ақпан",
+"data":"15-ші ақпанда",
 "id":"gekijouban-jujutsu-kaisen-0"
 } ]
