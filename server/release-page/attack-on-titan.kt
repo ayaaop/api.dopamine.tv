@@ -1,4 +1,4 @@
-{
+[ {
 "poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
 "title":"Титандар Шабуылы",
 "title_orignal":"進撃の巨人, Shingeki no Kyojin",
@@ -17,4 +17,4 @@
 "announcement":"null",
 "data":"null",
 "id":"attack-on-titan"
-}
+} ]
