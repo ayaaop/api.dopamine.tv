@@ -1,6 +1,7 @@
 [ {
 "episode":"1 бөлім",
-"is":"https://ok.ru/videoembed/4187764230857"
+"is":"https://ok.ru/videoembed/4187764230857",
+"url":"https://dopaminevoice.kz/video/chainsawman.mp4" 
 },
 {"episode":"2 бөлім",
 "is":"https://ok.ru/videoembed/4226012744393"
