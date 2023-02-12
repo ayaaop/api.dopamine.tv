@@ -1,5 +1,13 @@
 [ {
-"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
+"poster":"null",
+"episode":"0/0",
+"title":"Test",
+"rating:"10/25",
+"status":"Бітті",
+"info":"test",
+"id":"test"
+},
+{"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
 "episode":"10/25",
 "title":"Титандар Шабуылы",
 "rating":"10/25",
