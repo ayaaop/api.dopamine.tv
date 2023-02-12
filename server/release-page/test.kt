@@ -1,5 +1,4 @@
-{"code":0,"release":
-{"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
+[ {"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
 "title":"Титандар Шабуылы",
 "title_orignal":"進撃の巨人, Shingeki no Kyojin",
 "age":"18+",
