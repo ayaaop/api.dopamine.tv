@@ -1,3 +1,4 @@
 [ {
-"txt":"Сіздерді чатымызға шақырамыз dopamine_chat.t.me! »"
+"txt":"Сіздерді чатымызға шақырамыз! »",
+"url":"https://t.me/dopamine_chat"
 } ]
