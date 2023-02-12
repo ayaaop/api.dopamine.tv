@@ -1,4 +1,3 @@
 [ {
-"li":"null",
-"txt":"Test https://seele_off"
+"txt":"Сізді <u>чатымызға</u> шақырамыз"
 } ]
