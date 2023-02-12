@@ -1,4 +1,4 @@
 [ {
-"txt":"Test https://seele_off",
-"color":"#ff0000"
+"li":"null",
+"txt":"Test https://seele_off"
 } ]
