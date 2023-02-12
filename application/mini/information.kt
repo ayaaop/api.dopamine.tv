@@ -1,3 +1,4 @@
 [ {
-"info":"Test"
+"txt":"Test",
+"color":"#ff0000"
 } ]
