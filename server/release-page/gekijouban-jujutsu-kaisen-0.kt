@@ -1,6 +1,6 @@
 [ {
 "poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/Gekijouban Jujutsu Kaisen 0.png",
-"title":"Сыйқырлы шайқас 0",
+"title":"Сиқырлы шайқас 0",
 "title_orignal":"Gekijouban Jujutsu Kaisen 0",
 "age":"18+",
 "country":"Жапония, 2021 жыл",
