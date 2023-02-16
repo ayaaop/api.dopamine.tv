@@ -4,7 +4,7 @@
 "url":"https://firebasestorage.googleapis.com/v0/b/dopamine-voice.appspot.com/o/Chainsaw%20Man%2FChainsaw%20Man%20EP1.mp4?alt=media&token=fd593aa3-4d5b-4a52-92dd-30ef4ab45aa9" 
 },
 {"episode":"2 бөлім",
-"is":""https://ok.ru/videoembed/4226012744393",
+"is":"https://ok.ru/videoembed/4226012744393",
 "url":"https://firebasestorage.googleapis.com/v0/b/dopamine-voice.appspot.com/o/Chainsaw%20Man%2FChainsaw%20Man%202%20EP.mp4?alt=media&token=51a5b8d2-fb04-433a-b3e8-448a92833b4a"
 },
 {"episode":"3 бөлім",
