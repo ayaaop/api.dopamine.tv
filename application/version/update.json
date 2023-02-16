@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "Өзгерістер тізімі:",
-  "Description": "— «Әлемдік чат» енді сіз өз пікіріңізбен барлық Дофамин қосымшасының пайдаланушыларымен бөлісе аласыз\n— Бөлімдердің серверге қосылуы жайлы шағым статистика қосылды\n— Басты бетте аздап дизайн өзгертілді\n— Шығарылымдардың біткен немесе бітпегені тұралы ақпарат беретін шағым ақпараттық жүйе қосылды\n— Анонстар бөлімінің дизайны өзгертілді\n— Іздеу бөліміне кірген кезде шығарып жіберу қателігі түзетілді",
+  "Description": "— Тіркелу кезіндегі қателік түзетілді.",
   "MainTextButton": "Жаңарту",
   "Cancelable": "false",
   "CancelButtonText": "Кейінірек жаңарту",
-  "DownloadLink": "https://firebasestorage.googleapis.com/v0/b/dopamine-voice.appspot.com/o/Dopamine%20Apps%20v1.1%20BETA.apk?alt=media&token=d8959431-c41e-40bb-b95b-920f27936850",
-  "Version": "1.1 BETA"
+  "DownloadLink": "https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/application%2FDopamine%20v1.2%20BETA.apk?alt=media&token=f9c3db8e-df1a-4d74-ba48-1a08e689390e",
+  "Version": "1.2 BETA"
 }
