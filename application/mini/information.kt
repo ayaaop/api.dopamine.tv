@@ -1,4 +1,5 @@
 [ {
 "txt":"Бейне ойнатқыш v1 жұмыс жасамаған жағдайда «Веб бейне ойнатқыш» таңдаңыздар.",
-"url":"https://t.me/dopamine_apps"
+"url":"https://t.me/dopamine_apps",
+"color":"#ff0000"
 } ]
