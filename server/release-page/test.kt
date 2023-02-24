@@ -16,5 +16,6 @@
 "description":"Приложения, тест сервер",
 "announcement":"null",
 "data":"null",
+"unavailable":"null",
 "id":"test"
 } ]
