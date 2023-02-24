@@ -15,6 +15,7 @@
 "description":"фэнтези, экшн, хоррор",
 "uncom":"null",
 "announcement":"null",
+"premium":"null",
 "data":"null",
 "id":"attack-on-titan"
 } ]
