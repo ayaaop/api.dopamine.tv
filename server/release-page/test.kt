@@ -9,7 +9,7 @@
 "studio":"Студия Dopamine Voice, автор Seele",
 "note":"Бұл шығарылым тест ретінде қосылды, назар аударудың қажеті жоқ!",
 "info":"Сипаттама берілген жоқ!",
-"player":"null",
+"premium":"null",
 "comments":"",
 "com":"null",
 "height":"5000",
