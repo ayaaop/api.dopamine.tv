@@ -1,11 +1,5 @@
 [ {
-"poster":"https://yt3.googleusercontent.com/GKvzT2Xh4xpZ7hszNcSPAAuvdJYJgYeUBGik0cjmR2JnnXHaO3smdKvImDqixd-xxQQjF22aynY=s900-c-k-c0x00ffffff-no-rj",
-"title":"Test Page",
-"rating":"0/0",
-"info":"Сипаттама берілген жоқ!",
-"id":"test"
-},
-{"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
+"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
 "episode":"10/25",
 "title":"Титандар Шабуылы",
 "rating":"10/25",
