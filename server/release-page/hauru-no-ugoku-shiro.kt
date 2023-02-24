@@ -15,6 +15,7 @@
 "height":"2000",
 "description":"фантастика, ертегі",
 "uncom":"null",
+"premium":"null",
 "announcement":"null",
 "data":"null",
 "id":"hauru-no-ugoku-shiro"
