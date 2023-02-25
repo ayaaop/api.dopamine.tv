@@ -77,25 +77,21 @@
 },
 {"episode":"20 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/20/720/a090f22024152b6a28aef71c8a2817bd.m3u8"
 },
 {"episode":"21 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/21/720/92088b3e069b5087a6e91ec9ca2bee23.m3u8"
 },
 {"episode":"22 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/22/720/5be90fe6fe9461c2d780af9a2aaf4bb0.m3u8"
 },
 {"episode":"23 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/23/720/1a67c7c5547970ad9c5da1971c7472be.m3u8"
 },
 {"episode":"24 бөлім",
 "is":"null",
-"url":""
-},
-{"episode":"25 бөлім",
-"is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/24/720/6bf478b647a97cb0cb6b5d9a77e2d137.m3u8"
 } ]
