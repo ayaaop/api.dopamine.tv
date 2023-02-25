@@ -41,39 +41,39 @@
 },
 {"episode":"11 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/11/720/a66db5734e3050ae7e91b832ad42a01c.m3u8"
 },
 {"episode":"12 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/12/720/04859bb40ab8922dcb8cd1e858a1cd04.m3u8"
 },
 {"episode":"13 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/13/720/69ce355ddd6ae5075777df81e9227f06.m3u8"
 },
 {"episode":"14 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/14/720/1a682ad06c1cd32836dfbc26cb9e950c.m3u8"
 },
 {"episode":"15 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/15/720/b705d07ade173988ad725b55f1f3c0dd.m3u8"
 },
 {"episode":"16 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/16/720/5df529d3653a56df01f6149e766149d2.m3u8"
 },
 {"episode":"17 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/17/720/0883a14ca90a6ef68a326f928f6668ad.m3u8"
 },
 {"episode":"18 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/18/720/ad0454a4418d06942641b257ee890053.m3u8"
 },
 {"episode":"19 бөлім",
 "is":"null",
-"url":""
+"url":"https://cache.libria.fun/videos/media/ts/5692/19/720/fd781ec033f80aa1a464224b67088b64.m3u8"
 },
 {"episode":"20 бөлім",
 "is":"null",
