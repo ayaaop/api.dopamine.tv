@@ -1,5 +1,5 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/етік киген мысық соңғы тілек2.png",
+"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/poster1993.png",
 "title":"Етік киген мысық: Соңғы тілек",
 "title_orignal":"Puss in Boots: The Last Wish",
 "age":"16+",
