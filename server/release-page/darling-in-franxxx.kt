@@ -3,20 +3,7 @@
 "title":"Франкстағы сүйіктім",
 "title_orignal":"Darling in Franxxx",
 "age":"18+",
-"country":"Қазақстан", 2023 жыл",
+"country":"Қазақстан, 2023 жыл",
 "i_video":"0 бөлім. ~0 минут",
-"status":"Көп бөлімді, шықты",
-"studio":"Студия Dopamine, автор Seele",
-"note":"null",
-"note_li":"null",
-"info":"Сипаттама берілген жоқ!",
-"unavailable":"null",
-"comments":"null",
-"height":"5000",
-"com":"null",
-"player":"null",
-"description":"Test",
-"announcement":"null",
-"data":"null",
-"id":"darling-in-franxxx"
+"status":"Студия Dopamine, автор Seele"
 } ]
