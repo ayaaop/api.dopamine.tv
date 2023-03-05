@@ -1,6 +1,5 @@
 [ {
 "avatars":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2Fx67lXKEKeMbdyi1z6Yz8BouD0Tj2.png?alt=media&token=eaa2d25f-29cd-4564-a36b-7d7cdf4b6d8d",
-"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2Fx67lXKEKeMbdyi1z6Yz8BouD0Tj2.png?alt=media&token=11d301da-b055-427d-a4b3-7c1ccaddc7de",
 "username":"Hokage",
 "donut":"1100 теңге",
 "uid":"x67lXKEKeMbdyi1z6Yz8BouD0Tj2"
