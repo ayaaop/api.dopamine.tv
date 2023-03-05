@@ -1,5 +1,11 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/Gekijouban Jujutsu Kaisen 0.png",
+"poster":"https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/27/Kv04.jpg/revision/latest?cb=20171209072941",
+"title":"Нінөнің Махаббаты (Test Page)",
+"rating":"0/0",
+"info":"Сипаттама берілген жоқ!",
+"id":"darling-in-franxx"
+},
+{"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/Gekijouban Jujutsu Kaisen 0.png",
 "title":"Сиқырлы шайқас 0",
 "rating":"1/1",
 "info":"Юта Оккоцуды апаттан қайтыс болған балалық досының елесі аңдыйды. Дегенмен, ол өлер алдындағы момын қыз емес, жігіт басқара алмайтын құбыжық иесі. Сондықтан, сиқыршылар Ютаны ұстап алғанда, бала енді ешкім қарғыстан зардап шекпейтініне қуанады. Оны ұстаған сиқыр шебері Сатору Годжо жас жігітті Риканы басқаруды және адамдарға көмектесуді үйрену үшін сиқыр мектебіне түсуге көндіреді. Алайда Юта көп ұзамай зұлым рухтар әлемдегі ең қауіпті дүние емес екенін біледі.",
