@@ -1,6 +1,6 @@
 [ {
 "poster":"https://static.wikia.nocookie.net/darling-in-the-franxx/images/2/27/Kv04.jpg/revision/latest?cb=20171209072941",
-"title":"Нінөнің Махаббаты (Test Page)",
+"title":"Test Page",
 "rating":"0/0",
 "info":"Сипаттама берілген жоқ!",
 "id":"darling-in-franxx"
