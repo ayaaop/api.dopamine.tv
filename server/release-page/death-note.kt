@@ -14,7 +14,7 @@
 "unavailable":"null",
 "premium":"null",
 "comments":"null",
-"key":"null",
+"key":"death-note",
 "height":"null",
 "com":"null",
 "id":"death-note",
