@@ -18,5 +18,6 @@
 "announcement":"null",
 "premium":"null",
 "data":"null",
+"key":"attack-on-titan",
 "id":"attack-on-titan"
 } ]
