@@ -13,7 +13,7 @@
 "comments":"",
 "com":"null",
 "height":"5000",
-"description":[{"Приложения}, {тест },{сервер"]
+"description":[{"Приложения}, {тест },{сервер"}]
 "announcement":"null",
 "data":"null",
 "unavailable":"null",
