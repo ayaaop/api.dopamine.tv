@@ -16,7 +16,7 @@
 "comments":"null",
 "key":"death-note",
 "height":"null",
-"com":"null",
+"uncom":"null",
 "id":"death-note",
 "data":"2023 жыл.",
 "description":"Тылсым күштер, тергеушілер"
