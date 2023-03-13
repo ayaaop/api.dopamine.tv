@@ -1,5 +1,5 @@
 [ {
-"poster":"",
+"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/sen-to-chihiro-no-kamikakushi.png",
 "title":"Елес Ерткен (2001)",
 "title_orignal":"Sen to Chihiro no Kamikakushi",
 "age":"6+",
