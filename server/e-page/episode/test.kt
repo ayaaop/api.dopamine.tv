@@ -44,10 +44,10 @@
 "url":"https://cache.libria.fun/videos/media/ts/8679/11/480/5affb496ac1a9f174bfeb56e715faab5.m3u8"
 },
 {"episode":"12 бөлім",
-"is":"",
-"url":""
+"is":"https://cache.libria.fun/videos/media/ts/8679/12/480/42182d1c1d7f766f9bbe9054ec594871.m3u8",
+"url":"https://cache.libria.fun/videos/media/ts/8679/12/480/42182d1c1d7f766f9bbe9054ec594871.m3u8"
 },
 {"episode":"13 бөлім",
-"is":"",
-"url":""
+"is":"https://cache.libria.fun/videos/media/ts/8679/13/480/54078e6c897c5ae49cf79a0ea22d5d79.m3u8",
+"url":"https://cache.libria.fun/videos/media/ts/8679/13/480/54078e6c897c5ae49cf79a0ea22d5d79.m3u8"
 } ]
