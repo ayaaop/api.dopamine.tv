@@ -1,1 +1,22 @@
-
+[ {
+"poster":"",
+"title":"Елес Ерткен (2001)",
+"title_orignal":"Sen to Chihiro no Kamikakushi",
+"age":"6+",
+"country":"Жапония, 2001 жыл",
+"i_video":"1 бөлім. ~125 минут",
+"status":"Толықметражды, шықты",
+"studio":"Студия Ghibli, режиссер Хаяо Миядзаки",
+"note":"Біздің келесі дыбыстама Ghibli студиясының ең үздік туындыларының бірі "Елес Ерткен (2001)" толықметражды анимесі болмақшы.\nТолық ақпарат: t.me/dopamine_voice/212",
+"info":"Сипаттама берілген жоқ!",
+"player":"null",
+"unavailable":"null",
+"premium":"null",
+"comments":"null",
+"key":"sen-to-chihiro-no-kamikakushi",
+"height":"null",
+"uncom":"null",
+"id":"sen-to-chihiro-no-kamikakushi",
+"data":"2023 жыл.",
+"description":"Шытырман оқиғалар, тылсым күштер"
+} ]
