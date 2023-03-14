@@ -17,6 +17,6 @@
 "description": ["genre 1", "genre 2", "etc"],
 "announcement":"null",
 "data":"null",
-"unavailable":"null",
+"premium":"null",
 "id":"test"
 } ]
