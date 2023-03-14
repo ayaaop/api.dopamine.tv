@@ -1,5 +1,5 @@
 [ {
-"poster":"https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
 "title":"Ажал дәптері",
 "title_orignal":"Death Note",
 "age":"18+",
