@@ -11,6 +11,6 @@
 },
 {"avatars":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2FISMQcM25qifNaiY7eSotfnZpTTD2.png?alt=media&token=4ad692dd-33a9-4874-bdb4-18846483d75d",
 "username":"ayatop2",
-"donut":"520 теңге",
+"donut":"520 теңге\nУақыты аяқталды!",
 "uid":"ISMQcM25qifNaiY7eSotfnZpTTD2"
 } ]
