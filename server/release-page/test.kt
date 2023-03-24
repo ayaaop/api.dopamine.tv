@@ -7,7 +7,7 @@
 "i_video":"0 бөлім. ~0 минут",
 "status":"Шықты",
 "studio":"Студия Dopamine Voice, автор Seele",
-"note":"OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"note":"Бұл әзірлеушілерге арналған сынақ беті, мән берудің қажеті жоқ!",
 "info":"Сипаттама берілген жоқ!",
 "player":"null",
 "comments":"",
@@ -17,6 +17,6 @@
 "description": ["genre 1", "genre 2", "etc"],
 "announcement":"null",
 "data":"null",
-"premium":"null",
+"unavailable":"null",
 "id":"test"
 } ]
