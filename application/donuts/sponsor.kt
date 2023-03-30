@@ -9,6 +9,11 @@
 "donut":"600 теңге",
 "uid":"OX4veOIPKWWu1HeJ9g6Frhkll363"
 },
+{"avatars":"https://dopamine-app.github.io/api.dopamine.tv/application/users/avatars/static_avatars.png",
+"username":"SON1C",
+"donut":"600 теңге",
+"uid":"reUn4beiAmWlxE9b8rncDuCjyC73"
+},
 {"avatars":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2FISMQcM25qifNaiY7eSotfnZpTTD2.png?alt=media&token=4ad692dd-33a9-4874-bdb4-18846483d75d",
 "username":"ayatop2",
 "donut":"520 теңге\nУақыты аяқталды!",
