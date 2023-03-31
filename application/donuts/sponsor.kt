@@ -1,5 +1,10 @@
 [ {
-"avatars":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2Fx67lXKEKeMbdyi1z6Yz8BouD0Tj2.png?alt=media&token=eaa2d25f-29cd-4564-a36b-7d7cdf4b6d8d",
+"avatars":"https://dopamine-app.github.io/api.dopamine.tv/application/users/avatars/static_avatars.png",
+"username":"Aidosgreen",
+"donut":"2100 теңге",
+"uid":"wlfmtyrcJoh7dCfH68ITSTbQdRh2"
+},
+{"avatars":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2Fx67lXKEKeMbdyi1z6Yz8BouD0Tj2.png?alt=media&token=eaa2d25f-29cd-4564-a36b-7d7cdf4b6d8d",
 "username":"Hokage",
 "donut":"1100 теңге",
 "uid":"x67lXKEKeMbdyi1z6Yz8BouD0Tj2"
