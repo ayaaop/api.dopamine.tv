@@ -1,0 +1,23 @@
+[ {
+"poster":"https://static.hdrezka.ac/i/2022/8/29/x431b482f131aqk30y58g.jpg",
+"title":"Сенің сәуірдегі жалған сөзің",
+"title_orignal":"Shigatsu wa kimi no uso",
+"age":"12+",
+"country":"Жапония, күз 2014 жыл",
+"i_video":"22 бөлім. ~22 минут",
+"status":"Көп бөлімді, шықты",
+"studio":"Студия A-1 Pictures, автор Наоси Аракава",
+"note":"null",
+"note_li":"null",
+"info":"Сипаттама берілген жоқ!",
+"player":"null",
+"unavailable":"null",
+"premium":"null",
+"comments":"null",
+"key":"1-apr",
+"height":"null",
+"uncom":"null",
+"id":"1-apr",
+"data":"2-Сәуірде",
+"description":"Тылсым күштер, тергеушілер"
+} ]
