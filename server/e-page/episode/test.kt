@@ -4,7 +4,7 @@
 "url":"http://cloud.kodik-storage.com/useruploads/64c0a5e6-7541-499d-9b9b-756578ff075a/645ff6ab39c6b06fa3211c98331101fb:2023040203/360.mp4:hls:manifest.m3u8"
 },
 {"episode":"2 бөлім",
-"is":"https://cache.libria.fun/videos/media/ts/8679/2/480/3f7aa747ec1ea5f700563d302500e456.m3u8",
+"is":"https://anidubonline.com/player/index.php?vid=L3M0LzExNjAzLzEvMS5tcDQ=&url=/anime/anime_ongoing/11740-angel-po-sosedstvu-menja-baluet-otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-01-iz-12.html&ses=ff&id=-1",
 "url":"https://anidubonline.com/player/index.php?vid=L3M0LzExNjAzLzEvMS5tcDQ=&url=/anime/anime_ongoing/11740-angel-po-sosedstvu-menja-baluet-otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-01-iz-12.html&ses=ff&id=-1"
 },
 {"episode":"3 бөлім",
