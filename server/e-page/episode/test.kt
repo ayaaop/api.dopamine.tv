@@ -5,7 +5,7 @@
 },
 {"episode":"2 бөлім",
 "is":"https://cache.libria.fun/videos/media/ts/8679/2/480/3f7aa747ec1ea5f700563d302500e456.m3u8",
-"url":"https://anidubonline.com/player/index.php?vid=L3M0LzExNjAzLzEvMS5tcDQ=&url=/anime/anime_ongoing/11740-angel-po-sosedstvu-menja-baluet-otonari-no"
+"url":"https://anidubonline.com/player/index.php?vid=L3M0LzExNjAzLzEvMS5tcDQ=&url=/anime/anime_ongoing/11740-angel-po-sosedstvu-menja-baluet-otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-01-iz-12.html&ses=ff&id=-1"
 },
 {"episode":"3 бөлім",
 "is":"https://cache.libria.fun/videos/media/ts/8679/3/480/a114a54153cc44dc04610203bb479a2f.m3u8",
