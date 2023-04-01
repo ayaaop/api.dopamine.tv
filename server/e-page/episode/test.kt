@@ -1,7 +1,7 @@
 [ {
 "episode":"1 бөлім",
 "is":"https://cache.libria.fun/videos/media/ts/8679/1/480/291a212eecf2060997e5bfa8bc1a0e63.m3u8",
-"url":"https://r170201.kujo-jotaro.com/hirowareta-otoko/2/11.360.29b168626b072947.mp4?hash=5f3af0439b2edd8bcaddd9f1167a1f17&amp"
+"url":"http://cloud.kodik-storage.com/useruploads/64c0a5e6-7541-499d-9b9b-756578ff075a/645ff6ab39c6b06fa3211c98331101fb:2023040203/360.mp4:hls:manifest.m3u8"
 },
 {"episode":"2 бөлім",
 "is":"https://cache.libria.fun/videos/media/ts/8679/2/480/3f7aa747ec1ea5f700563d302500e456.m3u8",
