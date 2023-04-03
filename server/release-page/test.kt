@@ -7,7 +7,7 @@
 "i_video":"0 бөлім. ~0 минут",
 "status":"Шықты",
 "studio":"Студия Dopamine Voice, автор Seele",
-"note":"<b>Версия 3.12.19 (Caesium) - Beta</b><br/><a href=\"http://labx.mangawatcherx.com/api/v3/update/file?beta=true\">Нажмите для скачивания файла через браузер</a><br/>ВНИМАНИЕ!!! При любых проблемах - сообщайте по почте или в телеграмм канале <a href=\"https://t.me/joinchat/F9UM8VGcmjwrzIL6TRKf0Q\">LabX Talk</a><ul><li>Новое! - Nephila - Новые возможности парсинга</li><li>Тестовая поддержка перевода манги из архивов в GPU-based ридере</li><li>FIX! - Исправление ошибок и вылетов на основе отзывов пользователей</li></ul>",
+"note":"",
 "info":"Сипаттама берілген жоқ!",
 "note_li":"null",
 "player":"null",
