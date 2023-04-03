@@ -3,7 +3,7 @@
   "Title": "Өзгерістер тізімі:",
   "Description": "— Жаңа мәзір дизайны\n— Шығарылымдар бөлімінде кішігірім өзгерістер\n— android.bottom.statusbar түсі толығымен қараға боялды\n— Қараңғы режимі жоқ телефондарға арнап жаңа дизайн жасалынды\n— Қараңғы режимін өшірген кездегі дизайнда пайда болған барлық қателер түзетілді\n—  Жаңа стильді белгішелер (Значок/иконки) қосылды\n—  Кейбір белгішелерге Dynamic Color орнатылды.",
   "MainTextButton": "Жаңарту",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Кейінірек жаңарту",
   "DownloadLink": "https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/application%2FDopamine%20v1.6.apk?alt=media&token=e4c3f983-49f2-4c0b-93f8-23d403d1b8be",
   "Version": "1.6"
