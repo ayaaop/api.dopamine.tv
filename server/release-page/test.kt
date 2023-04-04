@@ -10,7 +10,7 @@
 "note":"",
 "info":"Сипаттама берілген жоқ!",
 "note_li":"null",
-"player":"null",
+"unavailable":"null",
 "comments":"",
 "uncom":"null",
 "key":"test",
