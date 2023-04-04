@@ -15,7 +15,7 @@
 "uncom":"null",
 "key":"test",
 "height":"5000",
-"description": ["genre 1", "genre 2", "etc"],
+"description": [{"genre 1"}, {"genre 2"}, {"etc"}],
 "announcement":"null",
 "data":"null",
 "unavailable":"null",
