@@ -1,5 +1,5 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/kimi_poster.png",
+"poster":"https://dopaminevoice.kz/img/kimi_poster.png",
 "title":"Сенің есімің",
 "title_orignal":"Kimi no na wa",
 "age":"16+",
