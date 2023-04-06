@@ -26,7 +26,7 @@
 "info":"Сипаттама берілген жоқ!",
 "announcement":"null",
 "unavailable":"null",
-"premium":"null",
+"player":"null",
 "comments":"null",
 "key":"test",
 "height":"null",
