@@ -3,6 +3,7 @@
 "title":"Сенің сәуірдегі жалған сөзің",
 "title_orignal":"Shigatsu wa kimi no uso",
 "age":"12+",
+"works":"china",
 "country":"Жапония, күз 2014 жыл",
 "i_video":"22 бөлім. ~22 минут",
 "status":"Көп бөлімді, шықты",
