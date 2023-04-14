@@ -3,6 +3,7 @@
 "title":"Сенің есімің",
 "title_orignal":"Kimi no na wa",
 "age":"16+",
+"works":"japan",
 "country":"Жапония, 2016 жыл",
 "i_video":"1 бөлім. ~116 минут",
 "status":"Толықметражды, шықты",
