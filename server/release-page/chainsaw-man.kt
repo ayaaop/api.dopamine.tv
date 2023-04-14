@@ -3,6 +3,7 @@
 "title":"Шынжырлы Ара Адам",
 "title_orignal":"Chensō Man",
 "age":"18+",
+"works":"japan",
 "country":"Жапония, 2022 жыл",
 "i_video":"12 бөлім. ~25 минут",
 "status":"Көп бөлімді, шықты",
