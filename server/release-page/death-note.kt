@@ -3,6 +3,7 @@
 "title":"Ажал дәптері",
 "title_orignal":"Death Note",
 "age":"18+",
+"works":"japan",
 "country":"Жапония, күз 2006 жыл",
 "i_video":"37 бөлім. ~23 минут",
 "status":"Көп бөлімді, шықты",
