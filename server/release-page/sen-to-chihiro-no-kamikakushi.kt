@@ -3,6 +3,7 @@
 "title":"Елес Ерткен",
 "title_orignal":"Sen to Chihiro no Kamikakushi",
 "age":"6+",
+"works":"japan",
 "country":"Жапония, 2001 жыл",
 "i_video":"1 бөлім. ~125 минут",
 "status":"Толықметражды, шықты",
