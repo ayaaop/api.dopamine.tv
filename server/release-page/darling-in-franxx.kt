@@ -3,6 +3,7 @@
 "title":"Франкстағы сүйіктім",
 "title_orignal":"Darling in FranXX",
 "age":"18+",
+"works":"japan",
 "country":"Қазақстан, 2023 жыл",
 "i_video":"0 бөлім. ~0 минут",
 "status":"Көп бөлімді, шықты",
