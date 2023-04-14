@@ -3,6 +3,7 @@
 "title":"Титандар Шабуылы",
 "title_orignal":"進撃の巨人, Shingeki no Kyojin",
 "age":"18+",
+"works":"japan",
 "country":"Жапония, 2013 жыл",
 "i_video":"10/25 бөлім. ~25 минут",
 "status":"Көп бөлімді, шықты",
