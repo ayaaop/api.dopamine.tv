@@ -4,6 +4,7 @@
 "title_orignal":"Shigatsu wa kimi no uso",
 "age":"12+",
 "country":"Жапония, күз 2014 жыл",
+"works":"japan",
 "i_video":"22 бөлім. ~22 минут",
 "status":"Көп бөлімді, шықты",
 "studio":"Студия A-1 Pictures, автор Наоси Аракава",
