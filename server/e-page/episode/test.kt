@@ -1,7 +1,7 @@
 [ {
 "episode":"1 бөлім",
 "is":"https://cache.libria.fun/videos/media/ts/8679/1/480/291a212eecf2060997e5bfa8bc1a0e63.m3u8",
-"url":"https://video.sibnet.ru/shell.php?videoid=3586250"
+"url":"https://cdn.animeiat.tv/files/35966/%5BAnimeiat.co%5DOshi_no_Ko_-_EP01%5B360p%5D.mp4"
 },
 {"episode":"2 бөлім",
 "is":"https://anidubonline.com/player/index.php?vid=L3M0LzExNjAzLzEvMS5tcDQ=&url=/anime/anime_ongoing/11740-angel-po-sosedstvu-menja-baluet-otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-01-iz-12.html&ses=ff&id=-1",
