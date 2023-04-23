@@ -1,12 +1,5 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
-"title":"Ажал дәптері",
-"episode":"1/37",
-"rating":"1/37",
-"info":"Орта мектеп оқушысы Лайт Ягамиге Ажал қызметшісі, яғни Шинигами, Рюктің дәптері қолына түседі. Осы дәптерге аты жазылған әрбір адам өледі, сондықтан Лайт Ягами жер бетіндегі зұлымдықпен күресуді шешеді.",
-"id":"death-note"
-},
-{"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
+"poster":"https://dopaminevoice.kz/img/aot_poster_1.jpg",
 "episode":"10/25",
 "title":"Титандар Шабуылы",
 "rating":"10/25",
