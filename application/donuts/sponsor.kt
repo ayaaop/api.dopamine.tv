@@ -11,7 +11,7 @@
 },
 {"avatars":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55eh71pI3nH7C65pyQjvm2ZKvE-jbmWtCcg&usqp=CAU",
 "username":"Nina",
-"donut":"\\unk\\no\\wn\\ теңге",
+"donut":"%/$ теңге",
 "uid":"OX4veOIPKWWu1HeJ9g6Frhkll363"
 },
 {"avatars":"https://dopamine-app.github.io/api.dopamine.tv/application/users/avatars/static_avatars.png",
