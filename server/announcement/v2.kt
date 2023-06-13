@@ -1,14 +1,6 @@
+
 [ {
-  "avatars":"https://i.blogs.es/e415e0/oshi-no-ko/450_1000.jpeg",
-  "username":"Anonymous",
-  "is_verified":"false",
-  "is_sponsor":"true",
-  "message":"Сәлем әлем!",
-  "poster":"null",
-  "message_li":"true",
-  "poster_li":"false"
-  },
-  {"avatars":"https://depor.com/resizer/DUnLwHWS6LYbvqNMSqxH8p3AqFY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/INO2R6UTI5FQFFJ3DW4BKBZCPE.jpg",
+  "avatars":"https://depor.com/resizer/DUnLwHWS6LYbvqNMSqxH8p3AqFY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/INO2R6UTI5FQFFJ3DW4BKBZCPE.jpg",
   "username":"Seele",
   "is_verified":"true",
   "is_sponsor":"true",
