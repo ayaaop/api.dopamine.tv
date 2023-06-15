@@ -4,5 +4,5 @@
   "episode":"1/12",
   "rating":"1/12",
   "info":"com.dopaminevoice.kz.SYSTEM.SEELE",
-  "id":"test",
+  "id":"test"
 } ]
