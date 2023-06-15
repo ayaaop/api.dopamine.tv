@@ -18,7 +18,7 @@
 
 "studio":"Студия Bones, автор Асагири Кафка",
   
-"available_player":"Web-Player",
+"available_player":"Қолжетімді бейне ойнатқыш: Web-Player",
 
 "note":"null",
 
