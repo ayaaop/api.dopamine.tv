@@ -7,6 +7,7 @@
 "country":"Қазақстан, 2023 жыл",
 "i_video":"0 бөлім. ~0 минут",
 "status":"Көп бөлімді, шықты",
+"available_player":"Қолжетімді бейне ойнатқыш табылмады:(",
 "studio":"Студия Dopamine, автор Seele",
 "note":"null",
 "note_li":"null",
