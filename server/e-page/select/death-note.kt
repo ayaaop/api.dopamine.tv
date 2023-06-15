@@ -6,6 +6,6 @@
 
 "episodeList":"1 бөлім",
 
-"id":"death-note."
+"id":"death-note"
 
 } ]
