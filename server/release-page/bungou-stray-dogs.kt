@@ -17,6 +17,8 @@
 "status":"Көп бөлімді, шықты",
 
 "studio":"Студия Bones, автор Асагири Кафка",
+  
+"available_player":"Web-Player",
 
 "note":"null",
 
