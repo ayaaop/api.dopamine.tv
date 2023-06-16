@@ -4,7 +4,7 @@
 
 "title":"Ван-пис: 1-фильм",
 
-"title_orignal":"One piece",
+"title_orignal":"One Piece Movie 1",
 
 "age":"16+",
 
