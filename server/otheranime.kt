@@ -1,5 +1,12 @@
 [ {
-  "poster":"https://yummyanime.org/uploads/posts/2022-10/459.jpg",
+  "poster":"https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/928093b3-e31f-47e8-b3b3-ce93588ee675/440x660",
+  "title":"Түнгі қоңырау",
+  "episode":"11/13",
+  "rating":"11/13",
+  "info":"Бейтаныс адаммен кездейсоқ кездесу Ямори Ко деген атты 8 сынып оқушысын түнгі өмірмен таныстырады. Ко оның соңынан ереді.",
+  "id":"yofukashi-no-uta"
+  },
+  {"poster":"https://yummyanime.org/uploads/posts/2022-10/459.jpg",
   "title":"Ван-пис: 1-фильм",
   "episode":"1/1",
   "rating":"1/1",
