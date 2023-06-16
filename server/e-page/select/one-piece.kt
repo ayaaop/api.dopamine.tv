@@ -4,7 +4,7 @@
 
 "studioName":"RamazanSub | Субтитры",
 
-"episodeList":"1 бөлім",
+"episodeList":"Толықметражды",
 
 "id":"one-piece"
 
