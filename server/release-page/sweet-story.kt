@@ -18,7 +18,7 @@
 
 "studio":"Режиссёр Такаянаги Сигэхито",
 
-"available_player":"Қолжетімді бейне ойнатқыштар: Web-Player",
+"available_player":"Қолжетімді бейне ойнатқыш: Web-Player",
 
 "note":"null",
 
