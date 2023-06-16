@@ -2,7 +2,7 @@
 
 "studio_avatars":"https://dopamine-app.github.io/api.dopamine.tv/server/studio-logo/qaz.anime-logo.png",
 
-"studioName":"QazAnime",
+"studioName":"QazAnime | Субтитры",
 
 "episodeList":"11 бөлім",
 
