@@ -2,7 +2,7 @@
 
 "poster":"https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
 
-"title":"Ван-пис: Фильм",
+"title":"Ван-пис: 1 Фильм",
 
 "title_orignal":"One piece",
 
