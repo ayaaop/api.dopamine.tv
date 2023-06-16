@@ -1,5 +1,5 @@
 [ {
   "episode":"1 бөлім",
-  "is":"https://ok.ru/videoembed/5182129572415",
-  "url":"https://ok.ru/videoembed/5182129572415"
+  "is":"https://video.sibnet.ru/shell.php?videoid=5173894",
+  "url":"https://video.sibnet.ru/shell.php?videoid=5173894"
 } ]
