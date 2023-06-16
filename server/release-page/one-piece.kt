@@ -2,7 +2,7 @@
 
 "poster":"https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
 
-"title":"Ван-пис",
+"title":"Ван-пис: Фильм",
 
 "title_orignal":"One piece",
 
@@ -12,7 +12,7 @@
 
 "country":"Жапония, күз 1999 жыл",
 
-"i_video":"1/? бөлім. ~24 минут",
+"i_video":"1/1 бөлім. ~59 минут",
 
 "status":"Көп бөлімді, шығып жатыр",
 
