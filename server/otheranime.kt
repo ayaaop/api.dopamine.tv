@@ -1,5 +1,5 @@
 [ {
-  "poster":"https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "poster":"https://yummyanime.org/uploads/posts/2022-10/459.jpg",
   "title":"Ван-пис: 1-фильм",
   "episode":"1/1",
   "rating":"1/1",
