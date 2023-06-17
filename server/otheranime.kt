@@ -1,5 +1,12 @@
 [ {
-  "poster":"https://static.anixart.tv/posters/I1lKSp5kHl4bf4nmNZsdnsQYFGPBS8.jpg",
+  "poster":"https://m.media-amazon.com/images/I/71QA1m0KGKL._AC_UF894,1000_QL80_.jpg",
+  "title":"Жын жоюшы",
+  "episode":"6/26",
+  "rating":"6/26",
+  "info":"Танжиро – асыраушысынан айырылған отбасының үлкен ұлы. Бір күні ол басқа қалаға көмір сатуға барады, бірақ үйіне бармай, бейтаныс үйде түнеп қалады. Мұның бәрі түн жамылып тауда жүрген жын туралы қауесетке байланысты. Таңертең жігіт үйіне аман-есен оралады... Бірақ оны қорқынышты жаңалық күтіп тұр…",
+  "id":"demon-slayer"
+  },
+  {"poster":"https://static.anixart.tv/posters/I1lKSp5kHl4bf4nmNZsdnsQYFGPBS8.jpg",
   "title":"Ванитастың мұрасы",
   "episode":"1/12",
   "rating":"1/12",
