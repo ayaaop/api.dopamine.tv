@@ -1,5 +1,12 @@
 [ {
-  "poster":"https://static.anixart.tv/posters/Ofp2mTK2xWhDNHMGCogbOXAtrB9Rhq.jpg",
+  "poster":"https://static.anixart.tv/posters/TMsYbS5ngAFULSnorjw9TIKh1tEt2I.jpg",
+  "title":"Ориент",
+  "episode":"4/12",
+  "rating":"4/12",
+  "info":"Көптеген жылдар бойы феодалдар Хиномотода қанды соғыс жүргізді. Бірде оларға жұмбақ Кисин шабуыл жасады, ол феодалдарды әдіспен жоюды бастады. Бұл жын адамдардың Жер бетінен жоғалып кетуін қалайды. Содан бері бір жарым ғасыр өтті. Кисинді өлтіруді шешкен Буши жауынгерлері пайда болды.",
+  "id":"orient"
+  },
+  {"poster":"https://static.anixart.tv/posters/Ofp2mTK2xWhDNHMGCogbOXAtrB9Rhq.jpg",
   "title":"Құдіретті қаңғыбас төбеттер",
   "episode":"2/12",
   "rating":"2/12",
