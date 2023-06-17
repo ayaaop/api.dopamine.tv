@@ -1,5 +1,12 @@
 [ {
-  "poster":"https://static.anixart.tv/posters/TMsYbS5ngAFULSnorjw9TIKh1tEt2I.jpg",
+  "poster":"https://static.anixart.tv/posters/I1lKSp5kHl4bf4nmNZsdnsQYFGPBS8.jpg",
+  "title":"Ванитастың мұрасы",
+  "episode":"1/12",
+  "rating":"1/12",
+  "info":"Сипаттама берілген жоқ!",
+  "id":"vanitas-no-carte"
+  },
+  {"poster":"https://static.anixart.tv/posters/TMsYbS5ngAFULSnorjw9TIKh1tEt2I.jpg",
   "title":"Ориент",
   "episode":"4/12",
   "rating":"4/12",
