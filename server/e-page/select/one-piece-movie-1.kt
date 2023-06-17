@@ -6,6 +6,6 @@
 
 "episodeList":"Толықметражды",
 
-"id":"one-piece"
+"id":"one-piece-movie-1"
 
 } ]
