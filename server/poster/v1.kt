@@ -1,5 +1,5 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/i/spirited_banner2.png",
+"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/spirited_banner2.png",
 "id":"sen-to-chihiro-no-kamikakushi"
 },
 {"poster":"https://e1.pxfuel.com/desktop-wallpaper/271/627/desktop-wallpaper-death-note-poster-death-note.jpg",
