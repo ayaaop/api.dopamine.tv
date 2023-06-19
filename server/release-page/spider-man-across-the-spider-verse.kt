@@ -42,7 +42,7 @@
 
 "id":"spider-man-across-the-spider-verse",
 
-"data":"Жуырда.",
+"data":"Жуырда",
 
 "description":"шытырман оқиғалар"
 
