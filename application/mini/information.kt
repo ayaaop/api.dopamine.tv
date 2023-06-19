@@ -4,7 +4,7 @@
   
 "url":"https://t.me/dopamine_chats",
 
-"color":"#FFE4DEFC",
+"color":"#FF0088CC",
 
 "radius":"50"
 
