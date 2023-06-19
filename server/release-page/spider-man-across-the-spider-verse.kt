@@ -18,7 +18,7 @@
 
 "studio":"Студия Marvel Comics",
 
-"available_player":"Қолжетімді бейне ойнатқыш: Web-Player",
+"available_player":"Қолжетімді бейне ойнатқыш табылмады:(",
 
 "note":"null",
 
