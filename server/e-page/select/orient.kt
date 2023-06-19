@@ -4,7 +4,7 @@
 
   "studioName":"Aiba.Dub",
 
-  "episodeList":"4 бөлім",
+  "episodeList":"5 бөлім",
 
   "id":"orient"
 
