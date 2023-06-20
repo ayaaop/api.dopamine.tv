@@ -8,7 +8,7 @@
 
 "age":"16+",
 
-"works":"japan",
+"works":"china",
 
 "country":"Жапония, 2014 жыл",
 
