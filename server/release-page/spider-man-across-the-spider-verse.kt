@@ -8,7 +8,7 @@
 
 "age":"6+",
 
-"works":"unknown",
+"works":"usa",
 
 "country":"АҚШ, 2023 жыл",
 
