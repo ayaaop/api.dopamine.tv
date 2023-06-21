@@ -7,7 +7,7 @@
 "country":"АҚШ, 2013 жыл",
 "i_video":"1 бөлім. ~2 сағат 43 минут",
 "status":"Толықметражды, шықты",
-"studio":"драма, комедия, криминал, биография",
+"studio":"Студия? Автор?",
 "available_player":"Қолжетімді бейне ойнатқыш: Web-Player",
 "note":"null",
 "note_li":"null",
@@ -21,5 +21,5 @@
 "uncom":"null",
 "id":"the-wolf-of-wall-street",
 "data":"null",
-"description":"мелодрама, тарих, триллер, драма"
+"description":"драма, қылмыс, өмірбаян, комедия"
 } ]
