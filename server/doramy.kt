@@ -1,5 +1,11 @@
 [ {
-"poster":"https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",
+"poster":"https://m.media-amazon.com/images/M/MV5BYTAzYzI1ZDYtNDUwYS00OTg4LTg4N2ItMTk5MTUxYzgyMGM4XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_.jpg",
+"title":"Құрт жайлаған алқап",
+"rating":"1/1",
+"info":"Ежелгі дәуірді зерттеушілер тобы Юньнань провинциясының үңгірлеріне барады. Онда археологтар жоғалған қабірлерді, елестерді, тұзақтарды және, әрине, жауыз құбыжықтарды күтуде.",
+"id":"mojin-the-worm-valley"
+},
+{"poster":"https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",
 "title":"Пусанға жол тартқан пойыз",
 "rating":"1/1",
 "info":"Кішкентай Су-анның туған күні. Қыз әкесімен Сеулде тұрады және Пусандағы анасына барғысы келеді. Жолда күтпеген жағдай орын алып, елге жұмбақ вирус түседі. Қалай ойлайсың? олар бұл вирустан аман қала алады ма? Dopamine қосымшасынан бірге көрейік...",
