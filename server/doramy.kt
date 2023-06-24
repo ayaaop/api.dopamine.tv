@@ -1,5 +1,11 @@
 [ {
-"poster":"https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/3e3ac17a-c83d-4dcb-b1ff-f5628ed12582/1920x",
+"poster":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+"title":"Жүзіктер әміршісі",
+"rating":"3/3",
+"info":"Сипаттама берілген жоқ!",
+"id":"the-lord-of-the-rings"
+},
+{"poster":"https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/3e3ac17a-c83d-4dcb-b1ff-f5628ed12582/1920x",
 "title":"Сиқырлы пирамида жайлы аңыз",
 "rating":"1/1",
 "info":"Бала Спарк полигонға түсті-жоғалған және қажетсіз заттар әлемінде. Бірақ жалғыздық оған мұнда да қауіп төндірмейді. Ол тез арада Сиқырлы пирамиданы іздеуге баратын бақытсыз достарын табады-тастанды заттар қайтадан қажет болатын жұмбақ орын. Көңілді компания өзінің шытырман оқиғалары кезінде бұл әлемдегі барлық нәрсенің құндылығы бар екенін түсінеді: тіпті кейбіреулер үшін қоқыс, басқалары үшін нағыз қазына болуы мүмкін.",
