@@ -4,7 +4,7 @@
 
 "studioName":"QazAnime | Субтитры",
 
-"episodeList":"11 бөлім",
+"episodeList":"13 бөлім",
 
 "id":"yofukashi-no-uta"
 
