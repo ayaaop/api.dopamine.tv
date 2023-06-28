@@ -1,5 +1,12 @@
 [ {
-"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
+"poster":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2FwT4ZJ7SI9FPFF92N4Swq789uy5a2.png?alt=media&token=ffed9598-e1e9-4b3d-a46b-d387b2e8bd23",
+"title":"Хацкнул",
+"episode":"0/0",
+"rating":"0/0",
+"info":"Сипаттама берілген жоқ!",
+"id":"test"
+},
+{"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
 "title":"Ажал дәптері",
 "episode":"1/37",
 "rating":"1/37",
