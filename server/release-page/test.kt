@@ -11,7 +11,7 @@
 "available_player":"Қолжетімді бейне ойнатқыш: Web-Player",
 "note":"Бұл бетті әзірлеуші ​​тестілеу үшін қосқан!",
 "info":"Сипаттама берілген жоқ!",
-"premium":"null",
+"player":"null",
 "unavailable":"null",
 "announcement":"null",
 "comments":"null",
