@@ -1,5 +1,9 @@
 [ {
-"episode":"2 бөлім",
+"episode":"1 бөлім",
+"is":"https://video.sibnet.ru/shell.php?videoid=5055502",
+"url":"https://video.sibnet.ru/shell.php?videoid=5055502"
+},
+{"episode":"2 бөлім",
 "is":"https://video.sibnet.ru/shell.php?videoid=5055468",
 "url":"https://video.sibnet.ru/shell.php?videoid=5055468"
 },
