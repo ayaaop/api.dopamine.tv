@@ -1,5 +1,11 @@
 [ {
-"poster":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+"poster":"https://sun9-13.userapi.com/impg/-xtPF5HlYPOVzvL7NlN5vHRox3x6883UGnivAg/5880sdI_jA0.jpg?size=421x604&quality=96&sign=b6091894043c154ab578298c90eaab49&type=album",
+"title":"Қара қабылан",
+"rating":"1/1",
+"info":"Бір қарағанда Ваканда жабайы Африканың әдеттегі аумағы деп ойлауы мүмкін, алайда бұл олай емес. Көбісі оған баруға тырысты, жолындағының бәрін жойып, аборигендерге өлім әкелді, бірақ әр кезде саваннаның жұмбақ рухы - Қара Қабылан бәрін қорғауға тұрды. Көптеген жылдар өткен соң, Ваканда қайтадан қиындықтар туындап, бұл жолы дұшпан заманауи технологияның қолдауына жүгінді. Мүмкіндік қалмаған кезде, Ваканданың жас патшасы ТЧалла аңызды қайта тірілтіп, қара қабыланың бетпердесін киіп, мәңгілік күресті жалғастыру керек екенін біледі.",
+"id":"black-panther"
+},
+{"poster":"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
 "title":"Жүзіктер әміршісі",
 "rating":"3/3",
 "info":"Сипаттама берілген жоқ!",
