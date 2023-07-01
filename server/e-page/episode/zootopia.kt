@@ -1,6 +1,5 @@
 [ {
-  "studio_avatars":"https://play-lh.googleusercontent.com/XITZmvMGzAoCeqk6ruVkhupKy3bdhuKYqwIIZyII5QJvHmS5TQ7Bfbtktjt99fEukPw",
-  "studioName":"QAZAQSTAN TV",
-  "episodeList":"Толықметражды",
-  "id":"zootopia"
+  "episode":"Фильм",
+  "is":"https://vk.com/video_ext.php?oid=-70095498&id=456240521&hash=1a97019ed22decce",
+  "url":"https://vk.com/video_ext.php?oid=-70095498&id=456240521&hash=1a97019ed22decce"
 } ]
