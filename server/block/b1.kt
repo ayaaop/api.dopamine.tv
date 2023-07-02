@@ -1,6 +1,6 @@
 [ {
-"poster":"https://firebasestorage.googleapis.com/v0/b/dopamine-apps.appspot.com/o/avatars%2FwT4ZJ7SI9FPFF92N4Swq789uy5a2.png?alt=media&token=ffed9598-e1e9-4b3d-a46b-d387b2e8bd23",
-"title":"Хацкнул",
+"poster":"https://i.pinimg.com/originals/1b/19/e8/1b19e81f39e005d18c0b48956bf76b92.gif",
+"title":"Siesta Chan",
 "episode":"0/0",
 "rating":"0/0",
 "info":"Сипаттама берілген жоқ!",
