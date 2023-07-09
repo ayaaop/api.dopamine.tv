@@ -1,8 +1,7 @@
 [ {
 "episode":"1 бөлім",
 "is":"https://ok.ru/videoembed/4187764230857",
-"url":"https://vd472.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1688057273177&srcIp=85.193.107.147&srcAg=CHROME_ANDROID&ms=185.226.53.88&type=4&sig=_2xUG1HpciY&ct=8&urls=45.136.22.36&clientType=0&id=2999772252873"
-//https://firebasestorage.googleapis.com/v0/b/dopamine-voice.appspot.com/o/Chainsaw%20Man%2FChainsaw%20Man%20EP1.mp4?alt=media&token=fd593aa3-4d5b-4a52-92dd-30ef4ab45aa9
+"url":"https://firebasestorage.googleapis.com/v0/b/dopamine-voice.appspot.com/o/Chainsaw%20Man%2FChainsaw%20Man%20EP1.mp4?alt=media&token=fd593aa3-4d5b-4a52-92dd-30ef4ab45aa9"
 },
 {"episode":"2 бөлім",
 "is":"https://ok.ru/videoembed/4226012744393",
