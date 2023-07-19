@@ -18,6 +18,7 @@
 "description":"фэнтези, экшн, хоррор",
 "uncom":"null",
 "announcement":"null",
+"player":"null",
 "premium":"null",
 "data":"null",
 "key":"attack-on-titan",
