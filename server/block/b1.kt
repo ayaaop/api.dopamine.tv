@@ -1,12 +1,5 @@
 [ {
-"poster":"https://i.pinimg.com/originals/1b/19/e8/1b19e81f39e005d18c0b48956bf76b92.gif",
-"title":"Siesta Chan",
-"episode":"0/0",
-"rating":"0/0",
-"info":"Сипаттама берілген жоқ!",
-"id":"test"
-},
-{"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
+"poster":"https://dopamine-app.github.io/api.dopamine.tv/server/img/death-note.png",
 "title":"Ажал дәптері",
 "episode":"1/37",
 "rating":"1/37",
