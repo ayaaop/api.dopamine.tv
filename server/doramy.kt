@@ -1,7 +1,7 @@
 [ {
 "poster":"https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/6a901623-2d81-4398-a3b6-8b38b3c29659/600x900",
 "title":"Әлсіз қаһарман",
-"rating":"2/8",
+"rating":"3/8",
 "info":"Сипаттама берілген жоқ...",
 "id":"yakhan-yeongung"
 },
