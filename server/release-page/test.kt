@@ -1,4 +1,4 @@
-[ {
+{
 "poster":"https://i.pinimg.com/originals/1b/19/e8/1b19e81f39e005d18c0b48956bf76b92.gif",
 "title":"Siesta Chan",
 "title_orignal":"Test Page",
@@ -21,4 +21,4 @@
 "id":"test",
 "data":"null",
 "description":"test, test, test, test"
-} ]
+}
