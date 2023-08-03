@@ -18,4 +18,8 @@
  {"episode":"5 бөлім",
    "is":"https://vk.com/video_ext.php?oid=-221394558&id=456239031&hash=1a027e66f94c7097",
    "url":"https://vk.com/video_ext.php?oid=-221394558&id=456239031&hash=1a027e66f94c7097"
+ },
+ {"episode":"6 бөлім",
+   "is":"https://vk.com/video_ext.php?oid=-221394558&id=456239032&hash=7ccae924cfddce8e",
+   "url":"https://vk.com/video_ext.php?oid=-221394558&id=456239032&hash=7ccae924cfddce8e"
  } ]
